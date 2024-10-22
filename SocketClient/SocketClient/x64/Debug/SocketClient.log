@@ -1,0 +1,3 @@
+﻿  SocketClient.cpp
+C:\Users\saturn\source\repos\SocketClient\SocketClient.cpp(41,20): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  SocketClient.vcxproj -> C:\Users\saturn\source\repos\SocketClient\x64\Debug\SocketClient.exe

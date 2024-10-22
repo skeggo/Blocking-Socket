@@ -1,0 +1,9 @@
+﻿  SocketClient.cpp
+SocketClient.obj : error LNK2019: unresolved external symbol _connect@12 referenced in function _main
+SocketClient.obj : error LNK2019: unresolved external symbol _htons@4 referenced in function _main
+SocketClient.obj : error LNK2019: unresolved external symbol _inet_addr@4 referenced in function _main
+SocketClient.obj : error LNK2019: unresolved external symbol _recv@16 referenced in function _main
+SocketClient.obj : error LNK2019: unresolved external symbol _socket@12 referenced in function _main
+SocketClient.obj : error LNK2019: unresolved external symbol _WSAStartup@8 referenced in function _main
+SocketClient.obj : error LNK2019: unresolved external symbol _WSACleanup@0 referenced in function _main
+C:\Users\saturn\source\repos\SocketClient\Debug\SocketClient.exe : fatal error LNK1120: 7 unresolved externals

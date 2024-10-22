@@ -1,0 +1,5 @@
+﻿  SocketServer.cpp
+C:\Users\saturn\source\repos\SocketServer\SocketServer.cpp(68,22): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\saturn\source\repos\SocketServer\SocketServer.cpp(114,27): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\saturn\source\repos\SocketServer\SocketServer.cpp(126,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SocketServer.vcxproj -> C:\Users\saturn\source\repos\SocketServer\x64\Debug\SocketServer.exe

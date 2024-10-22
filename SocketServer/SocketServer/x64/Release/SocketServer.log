@@ -1,0 +1,2 @@
+﻿  SocketServer.cpp
+LINK : fatal error LNK1181: cannot open input file 'wsock.lib32'
